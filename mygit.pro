@@ -4,4 +4,8 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-        main.cpp
+        main.cpp \
+    basic/test.cpp
+
+DISTFILES += \
+    diagram/gitDiagram.asta
