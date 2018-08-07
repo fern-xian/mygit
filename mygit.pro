@@ -5,7 +5,8 @@ CONFIG -= qt
 
 SOURCES += \
         main.cpp \
-    basic/test.cpp
+    basic/test.cpp \
+    basic/boost/testOptional.cpp
 
 DISTFILES += \
     diagram/gitDiagram.asta
